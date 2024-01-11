@@ -41,9 +41,8 @@ Welcome to my Tableau project! This repository contains two Tableau workbooks wi
 
 ## Additional Resources
 
-- [Link to PowerPoint Presentation]: Provide a link to any supplementary presentation materials.
-- [Link to Complete Report]: Include a link to the detailed report associated with the project.
-
+- [Link to PowerPoint Presentation]: 
+- [Link to Complete Report]: (https://github.com/rutujapohare24/Flight-delay-prediction-using-Tableau/blob/main/Pohare_Term_project_Report.docx)
 ## Contributors
 
 Acknowledge and thank contributors if applicable.
