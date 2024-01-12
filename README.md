@@ -12,21 +12,28 @@ Welcome to my Flight Delay and cancellation Predition for the year 2015 Tableau 
 
 1. **Workbook 1: [Pohare Tableau Term Project 230]**
     (https://github.com/rutujapohare24/Flight-delay-prediction-using-Tableau/blob/main/Pohare_Tableau_Term_project_230.twb)
-   - Description: Provide a brief description of the content and purpose of the first Tableau workbook.
-   - Key Visualizations: Highlight specific visualizations or dashboards included in this workbook.
-   - Usage Instructions: If there are any specific instructions for users interacting with this workbook, mention them here.
-
+   - Description: Provides a overview of all datasets which are connected to inner and outer joins and many to many relationaship.
+   - Key Visualizations: Airline's maximum and minimum Arrival and departure delays, Airline Delay based on weekdays and delays, Delays based on the airports.
+    
 3. **Workbook 2: [Pohare Tableau Term Project 230 1]**
     (https://github.com/rutujapohare24/Flight-delay-prediction-using-Tableau/blob/main/Pohare_Tableau_Term_project_230_1.twb)
-   - Description: Briefly describe the content and objectives of the second Tableau workbook.
-   - Key Visualizations: Outline the main visualizations or dashboards featured in this workbook.
-   - Usage Instructions: Include any relevant instructions or insights for users exploring this workbook.
+   - Description: This Tableau workbook features a visually compelling map that displays average flight delays based on the origin and destination airports for 
+     both arrivals and departures. The interactive dashboard allows users to select specific airports, providing insights into the average delays associated with 
+     these selections. 
+
+     Additionally, a Sankey chart is included, illustrating the relationship between airlines and the number of cancelled flights, categorized by month. This 
+     visual representation facilitates the analysis of the cancellation percentages for each airline, offering insights into both the individual and overall impact 
+     of cancellations on flights for each respective month in the year 2015. The Sankey chart utilizes sigmoid curves to visually depict the connections between 
+     the source (months) and target (airlines) components, enabling a comprehensive understanding of cancellation trends over the specified time period.
+
+   - Key Visualizations: Sankey Chart, Arrival and deaprture visuals on map portal of tableau.
+   
 
 ## How to Use
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   https://github.com/rutujapohare24/Flight-delay-prediction-using-Tableau.git
    ```
 
 2. Open Tableau Workbooks:
