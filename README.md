@@ -7,6 +7,9 @@ Welcome to my Flight Delay and cancellation Predition for the year 2015 Tableau 
 ## Data Source
 [Data Source](https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial/input?select=flights.csv)
 
+## Tableau Public link for this project
+https://public.tableau.com/app/profile/rutuja.pohare/vizzes
+
 
 ## Tableau Workbooks
 
